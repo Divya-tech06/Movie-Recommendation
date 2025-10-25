@@ -58,6 +58,3 @@ The system is built using real-world datasets from the **MovieLens** database (`
    - Line chart showing **average rating trends over years**.
 
 ---
-
-## 🧩 Example Output
-
